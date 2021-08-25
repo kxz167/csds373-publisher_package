@@ -1,0 +1,3 @@
+*~          #Ending in tilde
+\#*#        #Begins / ends with a hash
+*.bak       #Ends with .bak extension
